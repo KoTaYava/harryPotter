@@ -56,7 +56,7 @@ public class slizerin extends student {
         } else if (summ2 > summ1) {
             System.out.println(student2 + " лучший Слизеринец, чем " + student1);
         } else {
-            System.out.println("Силы равны");
+            System.out.println(" Силы равны ");
 }
     }
 }
