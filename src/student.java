@@ -66,7 +66,7 @@ public class student {
         } else if (si2 > si1) {
             System.out.println(student2 + " обладает большей мощностью магии, " + student1);
         } else {
-            System.out.println("Силы равны");
+            System.out.println(" Силы равны ");
 }
     }
     public static void di (student student1, student student2) {
@@ -77,7 +77,7 @@ public class student {
         } else if (si2 > si1) {
             System.out.println(student2 + " лучшe, чем " + student1);
         } else {
-            System.out.println("Силы равны");
+            System.out.println(" Силы равны ");
 }
     }
 }
